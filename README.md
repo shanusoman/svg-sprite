@@ -1,1 +1,2 @@
-# svg-sprite
+# SVG-Sprite
+SVG Sprite
